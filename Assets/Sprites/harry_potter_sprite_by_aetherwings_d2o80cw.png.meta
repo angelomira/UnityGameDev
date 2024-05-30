@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 5fa992b17b048074fa5eff6ecd22f1bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3817456425489354454
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_0
+  - first:
+      213: 554254730567363247
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_1
+  - first:
+      213: 4177503536064745094
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_2
+  - first:
+      213: 5908268777699373628
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_3
+  - first:
+      213: -121042127467761264
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_4
+  - first:
+      213: -2229489884767367324
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_5
+  - first:
+      213: 801422794052346037
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_6
+  - first:
+      213: -5783954490280742561
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_7
+  - first:
+      213: -1412057075192985663
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_8
+  - first:
+      213: 5167799136807342268
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_9
+  - first:
+      213: 3455802047214163580
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_10
+  - first:
+      213: -8636689255919325904
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_11
+  - first:
+      213: 6915092375453288437
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_12
+  - first:
+      213: 397746888307425322
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_13
+  - first:
+      213: 3684477894307097961
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_14
+  - first:
+      213: -8638847198218258611
+    second: harry_potter_sprite_by_aetherwings_d2o80cw_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21bc255b9ba50bc0800000000000000
+      internalID: -3817456425489354454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa2c8aadbb11b700800000000000000
+      internalID: 554254730567363247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ec31b255979f930800000000000000
+      internalID: 4177503536064745094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 145
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327d4466236ef150800000000000000
+      internalID: 5908268777699373628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0913d6d83d8f15ef0800000000000000
+      internalID: -121042127467761264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f4d1c13c24f01e0800000000000000
+      internalID: -2229489884767367324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0246af8c93f1b00800000000000000
+      internalID: 801422794052346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517ac929044bbfa0800000000000000
+      internalID: -5783954490280742561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78b8e429d576ce0800000000000000
+      internalID: -1412057075192985663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d8fb4fe5b7b740800000000000000
+      internalID: 5167799136807342268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 49
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76944ef6a975ff20800000000000000
+      internalID: 3455802047214163580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 49
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dee7181e0542880800000000000000
+      internalID: -8636689255919325904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7c7e3b0e757ff50800000000000000
+      internalID: 6915092375453288437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20c41400b4158500800000000000000
+      internalID: 397746888307425322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d24f8af15e12330800000000000000
+      internalID: 3684477894307097961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harry_potter_sprite_by_aetherwings_d2o80cw_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4772596e36ac1880800000000000000
+      internalID: -8638847198218258611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      harry_potter_sprite_by_aetherwings_d2o80cw_0: -3817456425489354454
+      harry_potter_sprite_by_aetherwings_d2o80cw_1: 554254730567363247
+      harry_potter_sprite_by_aetherwings_d2o80cw_10: 3455802047214163580
+      harry_potter_sprite_by_aetherwings_d2o80cw_11: -8636689255919325904
+      harry_potter_sprite_by_aetherwings_d2o80cw_12: 6915092375453288437
+      harry_potter_sprite_by_aetherwings_d2o80cw_13: 397746888307425322
+      harry_potter_sprite_by_aetherwings_d2o80cw_14: 3684477894307097961
+      harry_potter_sprite_by_aetherwings_d2o80cw_15: -8638847198218258611
+      harry_potter_sprite_by_aetherwings_d2o80cw_2: 4177503536064745094
+      harry_potter_sprite_by_aetherwings_d2o80cw_3: 5908268777699373628
+      harry_potter_sprite_by_aetherwings_d2o80cw_4: -121042127467761264
+      harry_potter_sprite_by_aetherwings_d2o80cw_5: -2229489884767367324
+      harry_potter_sprite_by_aetherwings_d2o80cw_6: 801422794052346037
+      harry_potter_sprite_by_aetherwings_d2o80cw_7: -5783954490280742561
+      harry_potter_sprite_by_aetherwings_d2o80cw_8: -1412057075192985663
+      harry_potter_sprite_by_aetherwings_d2o80cw_9: 5167799136807342268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
